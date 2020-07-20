@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4caa3cf9-ecfc-498a-ad1a-6cdaec70322d" name="Default Changelist" comment="易班成绩查询系统" />
+    <list default="true" id="4caa3cf9-ecfc-498a-ad1a-6cdaec70322d" name="Default Changelist" comment="易班成绩查询系统">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -92,8 +94,8 @@
       <file leaf-file-name="info.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/info.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="168" column="17" lean-forward="true" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
+            <state relative-caret-position="188">
+              <caret line="177" column="17" lean-forward="true" selection-start-line="177" selection-start-column="17" selection-end-line="177" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -621,7 +623,7 @@
       <workItem from="1594971121977" duration="914000" />
       <workItem from="1595236969926" duration="1202000" />
       <workItem from="1595253470023" duration="279000" />
-      <workItem from="1595253829271" duration="1783000" />
+      <workItem from="1595253829271" duration="2287000" />
     </task>
     <task id="LOCAL-00001" summary="易班成绩查询系统">
       <created>1595254347957</created>
@@ -644,11 +646,18 @@
       <option name="project" value="LOCAL" />
       <updated>1595255115823</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="易班成绩查询系统">
+      <created>1595255858593</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595255858593</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="293949000" />
+    <option name="totallyTimeSpent" value="294453000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -660,10 +669,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.3293348" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.3293348" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32788798" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="13" sideWeight="0.49946696" weight="0.3293348" />
@@ -679,11 +688,11 @@
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32890365" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.4989339" visible="true" weight="0.3293348" />
+      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.4989339" weight="0.3293348" />
       <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49946696" weight="0.39215687" />
       <window_info anchor="bottom" id="Sequence" order="15" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32551318" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.791939" visible="true" weight="0.24307036" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.791939" visible="true" weight="0.24307036" />
       <window_info id="Web" order="7" sideWeight="0.208061" side_tool="true" weight="0.13113007" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="6" side_tool="true" />
@@ -700,6 +709,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -867,8 +902,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/info.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="168" column="17" lean-forward="true" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
+        <state relative-caret-position="188">
+          <caret line="177" column="17" lean-forward="true" selection-start-line="177" selection-start-column="17" selection-end-line="177" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -902,7 +937,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>Web (aaa)|Web</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -950,7 +985,7 @@
       </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited />
+          <last-edited>10 (2)</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
